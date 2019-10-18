@@ -15,7 +15,7 @@ Pre-requisites
 <ul>
  <li>PHP</li>
  <li>Apache</li>
-<ul>
+</ul>
 
 Deployment
 ----------
@@ -29,5 +29,5 @@ Deployment
 
 Screenshots
 -----------
-<img src="screenshots/seating-Arrangement.PNG" title="Seating Layouts" alt="Seating Layouts"/>
+<img src="screenshots/seating-Arrangement.PNG" title="Seating Layouts" alt="Seating Layouts">
   
