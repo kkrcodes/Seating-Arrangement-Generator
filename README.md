@@ -29,5 +29,5 @@ Deployment
 
 Screenshots
 -----------
-<img src="screenshots/seating-arrangement.PNG" title="Seating Layouts" alt="Seating Layouts">
+<img src="screenshots/seating_arrangement.PNG" title="Seating Layouts" alt="Seating Layouts">
   
