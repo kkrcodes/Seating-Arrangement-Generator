@@ -1,5 +1,5 @@
 # Seating-Arrangement
-A web-based seating arrangement generator app made in PHP for generating seating layouts in classrooms and examination halls. Handy for teachers and examination organizers to quickly generate seating layouts. The application can generate layouts for any number of rooms and lists of students.
+A web-based seating arrangement generator app, made in PHP for generating seating layouts in classrooms and examination halls. Handy for teachers and examination organizers to quickly generate seating layouts. The application can generate layouts for any number of rooms and lists of students.
 
 How it works
 ------------
