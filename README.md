@@ -6,13 +6,9 @@ How it works
 <ul>
  <li>The list of rooms available along with the number of rows and columns of benches is listed in <i>rooms.txt</i>.</li>
  <li>For each list of students to be seated, a textfile containing their roll numbers is created.</li>
- <li>On running 
-           index.php
-  , each list of students are allotted seats parallel to other lists in the rooms available.</li>
+ <li>On running <b><i>index.php</i></b>, each list of students are allotted seats parallel to other lists in the rooms available.</li>
  <li>The layout can be printed and displayed outside the examination hall.</li>
 </ul>
-
-`index.php` 
 
 Pre-requisites
 --------------
