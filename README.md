@@ -22,7 +22,7 @@ Deployment
 <ul>
  <li>Setup the Apache server through XAMPP or a distribution software of your choice.</li>
  <li>Start the apache server.</li>
- <li>Clone the project to your web server's default path.</li>
+ <li>Clone the project to your server's default path.</li>
  <li>Run the app on your web browser at <b><i>localhost/Seating-Arrangement-Generator/sage/index.php</i></b>.</li>
  <li>The generated layouts will be displayed.</li>
 </ul>
