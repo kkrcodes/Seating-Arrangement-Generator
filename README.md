@@ -9,7 +9,9 @@ How it works
  <li>On running `index.php`, each list of students are allotted seats parallel to other lists in the rooms available.</li>
  <li>The layout can be printed and displayed outside the examination hall.</li>
 </ul>
+
 `index.php` 
+
 Pre-requisites
 --------------
 <ul>
