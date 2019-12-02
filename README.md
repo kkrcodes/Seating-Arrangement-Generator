@@ -31,3 +31,8 @@ Screenshots
 -----------
 <img src="screenshots/seating_arrangement.PNG" title="Seating Layouts" alt="Seating Layouts">
   
+## License
+
+The content of this repository is licensed under a
+[GNU General Public License v3.0](LICENSE).
+
